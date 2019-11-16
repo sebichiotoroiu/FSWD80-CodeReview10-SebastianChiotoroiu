@@ -1,0 +1,56 @@
+
+#footer {
+	background-color: #696969;
+	color: white;
+}
+
+#hero {
+	background-image: url('https://images.pexels.com/photos/442420/books-shelves-architecture-wood-442420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 30vw;
+}
+#header {
+	margin: 0 auto;
+	padding-top: 11vw;
+	text-align: center;
+}
+
+h1, h4{
+	color: white;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+a{
+	color: white!important;
+}
+
+#drop a{
+	color: black!important;
+}
+
+.btnd{
+	background-color: red;
+}
+.btnu {
+	background-color: green;
+}
+
+#about {
+	color: white;
+}
+#label {
+	color: white;
+}
+#end {
+	color: white;
+}
+
+.card img{
+	height: 320px!important;
+}
